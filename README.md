@@ -1,0 +1,2 @@
+# ClangMacroGuardTesting
+Tested ClangMacroGuard
